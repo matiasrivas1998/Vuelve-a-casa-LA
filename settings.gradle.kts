@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "View1"
+rootProject.name = "LACULONAREYES"
 include(":app")
